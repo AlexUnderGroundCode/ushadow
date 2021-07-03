@@ -1,0 +1,5 @@
+D:\Unity_works\test\Assets\Scenes\obj\Debug\net5.0\Scenes.csprojAssemblyReference.cache
+D:\Unity_works\test\Assets\Scenes\obj\Debug\net5.0\Scenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity_works\test\Assets\Scenes\obj\Debug\net5.0\Scenes.AssemblyInfoInputs.cache
+D:\Unity_works\test\Assets\Scenes\obj\Debug\net5.0\Scenes.AssemblyInfo.cs
+D:\Unity_works\test\Assets\Scenes\obj\Debug\net5.0\Scenes.csproj.CoreCompileInputs.cache
